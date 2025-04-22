@@ -22,7 +22,14 @@ The Directorate of Higher Education has 7 Government Colleges and 26 aided colle
 - React JS 
 - Bootstrap
 - Redux 
-- Google Firebase 
+- Google Firebase
+
+# Group Members :-
+ - Jitesh Kawal
+ - Nikita Badhekar
+ - Swastik Ghonsikar
+ - Gaurav Sonwane
+
 
 
 # FlowChart :-
